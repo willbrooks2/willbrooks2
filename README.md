@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willbrooks2
-- 👀 I’m interested in ... using GitHub for collaberation
+- 👀 I’m interested in ... using GitHub for collaboration
 - 🌱 I’m currently learning ... how to use GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
